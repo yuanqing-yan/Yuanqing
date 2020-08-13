@@ -2,12 +2,12 @@
 layout: page
 title: <font size="+4">Yuanqing Yan</font> 
 subtitle: Bioinformatician, Biostatistician
-css: "/css/index.css"
+css: "/assets/css/index.css"
 ---
 
 
 
-View:
+big-img:
   - "/img/View/travel5.JPG" : "Arizona, 2018"
   - "/img/View/travel4.JPG" : "Arizona, 2018"
   - "/img/View/travel3.JPG" : "Arizona, 2018"
