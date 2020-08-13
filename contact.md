@@ -4,7 +4,7 @@ title: " "
 ---
 
 ### Want to discuss collaborative projects or just want to say hi? Find my contact information as belows: 
-<br/>
+###<br/>
 ### Contact Information
 * Office: 6431 Fannin St, MSB 7.136, Houston, TX, 77030
 * Phone: 713-500-7778
