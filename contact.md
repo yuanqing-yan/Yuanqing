@@ -2,7 +2,6 @@
 layout: page
 title: " "
 ---
-
 ### <font size="+2">Want to discuss collaborative projects or just want to say hi? Find my contact information as belows:</font> 
 #### <br/>
 ### Contact Information
