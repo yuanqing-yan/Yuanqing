@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Yuanqing Yan
+title: <font size="+4">Yuanqing Yan</font> 
 subtitle: Bioinformatician, Biostatistician
-css: "/assets/css/anotherCSS/index.css"
+css: "/css/index.css"
 meta-title: "Yuanqing Yan"
 bigimg:
   - "/img/big-imgs/travel5.JPG" : "Arizona, 2018"
@@ -12,6 +12,6 @@ bigimg:
   - "/img/big-imgs/travel1.JPG" : "Arizona, 2018"
 ---
 <div style="text-align:left">
-<strong>I use advanced bioinformatics tools to mine omics data and perform statistical modeling to associate genomic alterations with human disease and identify predictive/prognostic biomarkers.</strong> &nbsp;&nbsp
+<strong>I use advanced bioinformatics tools to mine omics data and perform statistical modeling to associate genomic alterations with human disease and identify predictive/prognostic biomarkers.</strong> 
 </div>
 
