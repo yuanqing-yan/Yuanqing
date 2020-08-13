@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 
 ### Want to discuss collaborative projects or just want to say hi? Find my contact information as belows: 
