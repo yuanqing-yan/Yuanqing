@@ -7,7 +7,7 @@ css: "/assets/css/index.css"
 
 
 
-big-img:
+bigimg:
   - "/img/View/travel5.JPG" : "Arizona, 2018"
   - "/img/View/travel4.JPG" : "Arizona, 2018"
   - "/img/View/travel3.JPG" : "Arizona, 2018"
