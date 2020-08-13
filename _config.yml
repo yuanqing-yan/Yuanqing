@@ -9,6 +9,8 @@ description: A bioinformatician/biostatistician deciphering genomic alterations 
 # Your name to show in the footer
 author: Yuanqing Yan
 
+
+avatar: "/img/Yuanqing.jpg"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -28,7 +30,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/Yuanqing.jpg
+#title-img: /img/Yuanqing.jpg
 
 
 # --- Footer options --- #
