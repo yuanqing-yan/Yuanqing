@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contact Information
+title: 
 ---
 
-## Want to discuss collaborative projects or just want to say hi? Find my contact information as belows: 
+### Want to discuss collaborative projects or just want to say hi? Find my contact information as belows: 
 
 ### Contact Information
 * Office: 6431 Fannin St, MSB 7.136, Houston, TX, 77030
