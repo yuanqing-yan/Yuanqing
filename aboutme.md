@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Yuanqing Yan
+title: <font size="+4">Dr. Yuanqing Yan</font> 
 subtitle: Bioinformatician/Biostatistician, UTHealth at Houston
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research!
+title: <font size="+4">My Research</font> 
 ---
 
 My research focuse on the following area:
