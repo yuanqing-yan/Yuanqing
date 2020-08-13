@@ -6,9 +6,9 @@ subtitle: Bioinformatician/Biostatistician, UTHealth at Houston
 
 
 ### Professional Experience
-* 2017-Now, Assistant Professor, Department of Neurosurgery at the UTHealth at Houston, USA
-* 2015-2017, Postdoctoral Fellow, Department of Biostatistics at MD Anderson Cancer Center, USA
-* 2014-2015, Statistical Analyst, Department of Biostatistics at MD Anderson Cancer Center, USA
+* 2017-Now, Assistant Professor, Department of Neurosurgery at [the UTHealth at Houston](https://www.uth.edu/), USA
+* 2015-2017, Postdoctoral Fellow, Department of Biostatistics at [MD Anderson Cancer Center](https://www.mdanderson.org/), USA
+* 2014-2015, Statistical Analyst, Department of Biostatistics at [MD Anderson Cancer Center](https://www.mdanderson.org/), USA
 
 ### Education
 * Ph.D (2013), Genetics & Genomics, [University of Florida](http://www.ufl.edu)
