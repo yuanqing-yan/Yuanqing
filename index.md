@@ -12,6 +12,6 @@ bigimg:
   - "/img/big-imgs/travel1.jpg" : "Arizona, 2018"
 ---
 <div style="text-align:left">
-<strong>I use advanced bioinformatics tools to mine omics data and perform statistical modeling to associate genomic alterations with human disease and identify predictive/prognostic biomarkers.</strong> 
+<strong>I use advanced bioinformatics tools to mine omics data, perform statistical modeling to associate genomic alterations with human disease and identify predictive/prognostic biomarkers.</strong> 
 </div>
 
