@@ -2,7 +2,7 @@
 layout: page
 title: <font size="+4">Yuanqing Yan</font> 
 subtitle: Bioinformatician, Biostatistician
-css: "/assets/css/index.css"
+css: "/assets/css/anotherCSS/index.css"
 ---
 
 
