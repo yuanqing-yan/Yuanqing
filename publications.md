@@ -29,7 +29,7 @@ title: <font size="+4">Peer-review Publications</font>
 	
     * **Yan Y**, Salazar T, Dominguez JM 2nd, et. al.. Dicer expression exhibits a tissue-specific diurnal pattern that is lost during aging and in diabetes. **PloS ONE**. 2013 Nov 7;8(11): e80029. 
 	
-    * **Yan Y**, Li SW, Yang CY, Luo W, et. al.. The prediction of a common neutralizing epitope of H5N1 Avian Influenza Virus by in silico Molecular Docking. **Chinese Science Bulletin**. 2008 53(6): 868-877.
+    * **Yan Y**, SW Li, CY Yang, W Luo, et. al.. The prediction of a common neutralizing epitope of H5N1 Avian Influenza Virus by in silico Molecular Docking. **Chinese Science Bulletin**. 2008 53(6): 868-877.
 	
 1. **Selected Co-author Publications**
     * Dienel A, Ammassam Veettil R, Hong SH, Matsumura K, T PK, **Yan Y**, et. al.. Microthrombi Correlates With Infarction and Delayed Neurological Deficits After Subarachnoid Hemorrhage in Mice. **Stroke** 2020 Jul;51(7):2249-2254
