@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <font size="+2">Want to discuss collaborative projects or just want to say hi? Find my contact information as belows:</font>
-cover-img: "/img/contactInfo.jpg"
+cover-img: "/img/contact.jpg"
 ---
 #### <br/>
 ### Contact Information
