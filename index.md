@@ -6,7 +6,6 @@ css: "/css/index.css"
 meta-title: "Yuanqing Yan"
 meta-description: "Bioinformatician, Biostatistician"
 bigimg:
-  - "/img/bigimg/travel5.jpg" : "Arizona, 2018"
   - "/img/bigimg/travel4.jpg" : "Arizona, 2018"
   - "/img/bigimg/travel3.jpg" : "Arizona, 2018"
   - "/img/bigimg/travel2.jpg" : "Arizona, 2018"
