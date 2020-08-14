@@ -2,7 +2,9 @@
 layout: page
 title: <font size="+4">Dr. Yuanqing Yan</font> 
 subtitle: Bioinformatician/Biostatistician, UTHealth at Houston
-image:"/img/bigimg/travel5.jpg"
+bigimg
+ - "/img/bigimg/travel5.jpg" : "Arizona traveling, 2018"
+css: '/css/extend-home.css'
 ---
 
 
