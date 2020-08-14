@@ -20,12 +20,12 @@ title: <font size="+4">Peer-review Publications</font>
 	![jco](/img/journal/JCO.png)
 	
     * _Nguyen K*_, **Yan Y**_*_, Yuan B, Dasgupta A, et. al.. ST8SIA1 regulates tumor growth and metastasis in TNBC by activating the FAK-AKT-mTOR signaling pathway. **Molecular Cancer Therapeutics**. 2018 Dec;17(12):2689-2701. (*Co-first Authors
-	
-    * **Yan Y**, Gao R, Trinh TLP, Grant MB. Immunodeficiency in Pancreatic Adenocarcinoma with Diabetes Revealed by Comparative Genomics. **Clinical Cancer Research**. 2017 Oct 15;23(20):6363-6373.
-	
+		
     * _Takahashi K*_, _Hu B*_, _Wang F*_, **Yan Y**_*_, Kim E, et. al.. Clinical implications of cancer gene mutations in patients with chronic lymphocytic leukemia treated with lenalidomide. **Blood**. 2018 Apr 19;131(16):1820-1832. (*Co-first Authors)
 	
     * _Beli E*_, **Yan Y**_*_, Moldovan L, Vieira CP, et. al.. Restructuring of the Gut Microbiome by Intermittent Fasting Prevents Retinopathy and Prolongs Survival in db/db Mice. **Diabetes**. 2018 Sep;67(9):1867-1879. (*Co-first Authors)
+
+	* **Yan Y**, Gao R, Trinh TLP, Grant MB. Immunodeficiency in Pancreatic Adenocarcinoma with Diabetes Revealed by Comparative Genomics. **Clinical Cancer Research**. 2017 Oct 15;23(20):6363-6373.
 	
     * **Yan Y**, Salazar T, Dominguez JM 2nd, et. al.. Dicer expression exhibits a tissue-specific diurnal pattern that is lost during aging and in diabetes. **PloS ONE**. 2013 Nov 7;8(11): e80029. 
 	
