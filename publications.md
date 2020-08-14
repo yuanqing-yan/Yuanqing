@@ -15,8 +15,7 @@ title: <font size="+4">Peer-review Publications</font>
 	<p align="left">
 	 <img src="img/Yuanqing.jpg"/>
 	</p>
-	![jcopo](/img/journal/jcopo.png)
-	<img src="img/jcopo.png" width="100"/>
+	![jcopo](/img/jcopo.png)
 	
 	
     * **Yan Y**, Sun N, Wang H, Kobayashi M, et. al.. Whole genome-derived tiled peptide arrays detect pre-diagnostic autoantibody signatures in non-small cell lung cancer. **Cancer Research**. 2019 Apr 1; 79(7):1549-1557.
