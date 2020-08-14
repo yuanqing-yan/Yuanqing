@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size="+4">My Research</font> 
+title: <font size="+4",color="red">My Research</font> 
 cover-img: "img/DNA.jpg"
 ---
 
