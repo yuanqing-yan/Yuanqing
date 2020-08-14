@@ -11,7 +11,7 @@ title: <font size="+4">Peer-review Publications</font>
 
 1. **First/Co-first/Corresponding Author Publications**
     * **Yan Y**, Takayasu T, Hines G, Dono A, et. al.. Landscape of Genomic Alterations in IDH Wild-Type Glioblastoma Identifies PI3K as a Favorable Prognostic Factor. **JCO Precision Oncology** 2020 4:575-584.
-	<img src="img/journal/jcopo.png" width="100")
+	<img src="img/journal/jcopo.png" width="100">
     * **Yan Y**, Sun N, Wang H, Kobayashi M, et. al.. Whole genome-derived tiled peptide arrays detect pre-diagnostic autoantibody signatures in non-small cell lung cancer. **Cancer Research**. 2019 Apr 1; 79(7):1549-1557.
     * _Morita K*_, _Kantarjian HM*_, _Wang F*_, **Yan Y**_*_, Bueso-Ramos C, et. al.. Clearance of Somatic Mutations at Remission and the Risk of Relapse in Acute Myeloid Leukemia. **Journal of Clinical Oncology**. 2018 Jun 20;36(18):1788-1797.  (*Co-first Authors)
     * _Nguyen K*_, **Yan Y**_*_, Yuan B, Dasgupta A, et. al.. ST8SIA1 regulates tumor growth and metastasis in TNBC by activating the FAK-AKT-mTOR signaling pathway. **Molecular Cancer Therapeutics**. 2018 Dec;17(12):2689-2701. (*Co-first Authors)
