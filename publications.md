@@ -12,8 +12,8 @@ title: <font size="+4">Peer-review Publications</font>
 1. **First/Co-first/Corresponding Author Publications**
     * **Yan Y**, Takayasu T, Hines G, Dono A, et. al.. Landscape of Genomic Alterations in IDH Wild-Type Glioblastoma Identifies PI3K as a Favorable Prognostic Factor. **JCO Precision Oncology** 2020 4:575-584.
 	<img src="/img/journal/jcopo.png" width="100">
-	<p align="left"
-	 <img src="/img/journal/jcopo.png">
+	<p align="left">
+	 <img src="/img/jcopo.png">
 	</p>
 	![](/img/journal/jcopo.png)
     * **Yan Y**, Sun N, Wang H, Kobayashi M, et. al.. Whole genome-derived tiled peptide arrays detect pre-diagnostic autoantibody signatures in non-small cell lung cancer. **Cancer Research**. 2019 Apr 1; 79(7):1549-1557.
