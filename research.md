@@ -11,4 +11,4 @@ Biomarker facilitates the disease early detection, therapeutic intervention asse
 #### <br/>
 ### Genetics in Brain Vascular Disease
 Utilizing DNA sequencing data from familial pedigree samples, Dr. Yan studies the genetic linkage and disease-causing rare variants in brain aneurysm. An association of rare variants with the disease phenotype is also under investigation from the sporadic samples to obtain the higher mapping resolution of the diseaes locus. Integration of the DNA and RNA sequencing, differential molecular networks are being investigated. 
-![pedigree](/img/genetics.png)
+![pedigree](/img/genetics.jpg)
