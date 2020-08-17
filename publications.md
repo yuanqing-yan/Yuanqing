@@ -1,6 +1,7 @@
 ---
 layout: page
 title: <font size="+4">Peer-review Publications</font> 
+description: Publications
 ---
 
 <div align="center">
