@@ -2,7 +2,6 @@
 layout: page
 title: <font size="+4">My Research</font> 
 description: Research
-#cover-img: "img/DNA.jpg"
 ---
 
 ### Molecular Biomarker Discovery
