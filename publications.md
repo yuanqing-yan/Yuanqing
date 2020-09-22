@@ -33,7 +33,7 @@ description: Publications
     * **Yan Y**, Li SW, Yang CY, Luo W, et. al.. The prediction of a common neutralizing epitope of H5N1 Avian Influenza Virus by in silico Molecular Docking. **Chinese Science Bulletin**. 2008 53(6): 868-877.
 	
 1. **Selected Co-author Publications**
-    * Morita K, Wang F, Jahn K, Hu T, Tanaka T, Sasaki Y, Kuipers J, Loghavi S, Wang S, **Yan Y**, et. al.. Clonal Evolution of Acute Myeloid Leukemia Revealed by High-Throughput Single-Cell Genomics. **Nature Communications** 2020.
+    * _Morita K*_, _Wang F*_, _Jahn K*_, Hu T, Tanaka T, Sasaki Y, Kuipers J, Loghavi S, Wang S, **Yan Y**, et. al.. Clonal Evolution of Acute Myeloid Leukemia Revealed by High-Throughput Single-Cell Genomics. **Nature Communications** 2020.
 
     * Dienel A, Ammassam Veettil R, Hong SH, Matsumura K, T PK, **Yan Y**, et. al.. Microthrombi Correlates With Infarction and Delayed Neurological Deficits After Subarachnoid Hemorrhage in Mice. **Stroke** 2020 Jul;51(7):2249-2254
 	
