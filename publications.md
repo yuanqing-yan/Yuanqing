@@ -37,7 +37,7 @@ description: Publications
 
     * Dienel A, Ammassam Veettil R, Hong SH, Matsumura K, T PK, **Yan Y**, et. al.. Microthrombi Correlates With Infarction and Delayed Neurological Deficits After Subarachnoid Hemorrhage in Mice. **Stroke** 2020 Jul;51(7):2249-2254
 	
-	* Peng H, Pan S, **Yan Y**, Brand R, et. al.. Systemic proteome alterations linked to early stage pancreatic cancer in diabetic patients. **Cancers (Basel)**. 2020 Jun 11;12(6):1534.
+	* _Peng H*_, _Pan S*_, **Yan Y**, Brand R, et. al.. Systemic proteome alterations linked to early stage pancreatic cancer in diabetic patients. **Cancers (Basel)**. 2020 Jun 11;12(6):1534.
 	
 	* Otani Y, Yoo JY, Chao S, Liu J, Ramirez AC, Lee TJ, Hurwitz B, **Yan Y**, et. al.. Oncolytic HSV infected glioma cells activate NOTCH in adjacent tumor cells sensitizing tumors to gamma secretase inhibition. **Clinical Cancer Research**. 2020 May 15;26(10):2381-2392
 	
