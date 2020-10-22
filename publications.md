@@ -35,7 +35,7 @@ description: Publications
 1. **Selected Co-author Publications**
     * _Morita K*_, _Wang F*_, _Jahn K*_, Hu T, Tanaka T, Sasaki Y, Kuipers J, Loghavi S, Wang SA, **Yan Y**, et. al.. Clonal Evolution of Acute Myeloid Leukemia Revealed by High-Throughput Single-Cell Genomics. **Nature Communications** 2020 Oct21;11(1):5327.
 
-	* Kaur B, Hong B, Chapa V, Saini U, Modgil P, Cohn DE, He G, Siddik ZH, Sood AK, **Yan Y**, Karuppaiyah S, Pei G, Zhao Z, Yoo JY. Oncolytic HSV Therapy Modulates Vesicular Trafficking Inducing Cisplatin Sensitivity and Anti-tumor Immunity. **Clinical Cancer Research**. 2020 Oct 21.
+	* Kaur B, Hong B, Chapa V, Saini U, Modgil P, Cohn DE, He G, Siddik ZH, Sood AK, **Yan Y**, et. al.. Oncolytic HSV Therapy Modulates Vesicular Trafficking Inducing Cisplatin Sensitivity and Anti-tumor Immunity. **Clinical Cancer Research**. 2020 Oct 21.
 
     * Dienel A, Ammassam Veettil R, Hong SH, Matsumura K, T PK, **Yan Y**, et. al.. Microthrombi Correlates With Infarction and Delayed Neurological Deficits After Subarachnoid Hemorrhage in Mice. **Stroke** 2020 Jul;51(7):2249-2254
 	
