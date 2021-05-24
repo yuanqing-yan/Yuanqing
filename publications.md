@@ -12,8 +12,6 @@ description: Publications
 
 1. **First/Co-first/Corresponding Author Publications**
     * **Yan Y**, Martinez R, Rasheed MN, Cahal J, et. al.. Germline and somatic mutations in the pathology of pineal cyst: A whole-exome sequencing study of 93 individuals. **Molecular Genetics & Genomic Medicine** 2021 May 4:e1691.
-	![jcopo](/img/journal/jcopo.png)
-
 
     * **Yan Y**, Takayasu T, Hines G, Dono A, et. al.. Landscape of Genomic Alterations in IDH Wild-Type Glioblastoma Identifies PI3K as a Favorable Prognostic Factor. **JCO Precision Oncology** 2020 4:575-584.
 	![jcopo](/img/journal/jcopo.png)
