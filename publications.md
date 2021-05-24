@@ -11,6 +11,10 @@ description: Publications
 ----
 
 1. **First/Co-first/Corresponding Author Publications**
+    * **Yan Y**, Martinez R, Rasheed MN, Cahal J, et. al.. Germline and somatic mutations in the pathology of pineal cyst: A whole-exome sequencing study of 93 individuals. **Molecular Genetics & Genomic Medicine** 2021 May 4:e1691.
+	![jcopo](/img/journal/jcopo.png)
+
+
     * **Yan Y**, Takayasu T, Hines G, Dono A, et. al.. Landscape of Genomic Alterations in IDH Wild-Type Glioblastoma Identifies PI3K as a Favorable Prognostic Factor. **JCO Precision Oncology** 2020 4:575-584.
 	![jcopo](/img/journal/jcopo.png)
 	
@@ -33,6 +37,8 @@ description: Publications
     * **Yan Y**, Li SW, Yang CY, Luo W, et. al.. The prediction of a common neutralizing epitope of H5N1 Avian Influenza Virus by in silico Molecular Docking. **Chinese Science Bulletin**. 2008 53(6): 868-877.
 	
 1. **Selected Co-author Publications**
+    * _Wang F*_, _Morita K*_, DiNardo CD, Furudate K, Tanaka T, **Yan Y**, Patel KP, Macbeth KJ, Wu B, et. al.. Leukemia stemness and co-occurring mutations drive resistance to IDH inhibitors in acute myeloid leukemia. **Nature Communications** 2021 May 10;12(1):2607.
+
     * _Morita K*_, _Wang F*_, _Jahn K*_, Hu T, Tanaka T, Sasaki Y, Kuipers J, Loghavi S, Wang SA, **Yan Y**, et. al.. Clonal Evolution of Acute Myeloid Leukemia Revealed by High-Throughput Single-Cell Genomics. **Nature Communications** 2020 Oct21;11(1):5327.
 
 	* Kaur B, Hong B, Chapa V, Saini U, Modgil P, Cohn DE, He G, Siddik ZH, Sood AK, **Yan Y**, et. al.. Oncolytic HSV Therapy Modulates Vesicular Trafficking Inducing Cisplatin Sensitivity and Anti-tumor Immunity. **Clinical Cancer Research**. 2020 Oct 21.
